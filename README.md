@@ -1,4 +1,4 @@
-![Capture d'écran](screenshot.png)
+![Capture d'écran](screenshot.jpg)
 
 # Mon Portfolio Wordpress
 Un thème WordPress pour Portfolio sur mesure modifiable même sans savoir coder, en utilisant uniquement le site de wordpress.
