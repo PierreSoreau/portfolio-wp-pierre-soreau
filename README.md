@@ -22,3 +22,19 @@ Si vous n'avez pas d'environnement WordPress déjà configuré, je vous recomman
 2. Dans votre administration WordPress, allez dans **Apparence > Thèmes > Ajouter un nouveau**.
 3. Cliquez sur **Téléverser un thème**, choisissez le fichier `.zip` et cliquez sur **Installer**.
 4. **Activez** le thème une fois l'installation terminée.
+
+## 🛠️ Technologies Utilisées
+
+Ce thème a été conçu de A à Z (from scratch) en utilisant :
+
+* **PHP** : Cœur de la logique du thème (utilisation de la "Loop" WordPress, création de fonctions sur-mesure dans `functions.php`).
+* **HTML5** : Structure sémantique et accessible des pages.
+* **CSS3** : Mise en page, design responsive (adapté aux mobiles et tablettes) et animations.
+* **JavaScript (Vanilla)** : Gestion des interactions dynamiques côté client (menu burger).
+
+## 🧠 Difficultées rencontrées et apprentissage
+
+Lors de ce projet, j'ai rencontré deux défis majeurs. 
+Le premier fut technique : étant habitué à coder l'intégralité de mes visuels de zéro, j'ai dû revoir mes méthodes pour m'adapter à l'organisation spécifique des fichiers WordPress et apprendre son langage (ses fonctions natives).
+Le second défi fut ergonomique. WordPress étant un CMS, le but était que le thème soit 100% modifiable depuis l'interface d'administration. Il a donc fallu que je change de perspective, en délaissant mon regard de développeur pour me mettre à la place d'un utilisateur novice, afin d'anticiper ses besoins et lui faciliter la gestion du site sans aucune ligne de code.
+
